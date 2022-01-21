@@ -8,6 +8,8 @@ We will cover two use cases:
 1. Small companies that do not have their conversation platform
 2. Big enterprise companies that can afford their conversation platform
 
+See [diagram](https://app.diagrams.net/#G1PefRExlnl6POx4aTzf_Zw__PpWzA5E0Q)
+
 ## __EXPECTED OUTCOMES__
 - Deliver VRS and Magenta integration
 - Understand the latency criteria between VRS and Magenta
