@@ -16,3 +16,8 @@ We will cover two use cases:
 ## __OUT OF SCOPE__
 - Privacy and Security are not part of the POC
 - Latency
+
+
+## __REPOSITORIES__
+- [VRS](https://github.com/open-voice-network/vrs)
+- Magenta
