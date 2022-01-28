@@ -18,6 +18,7 @@ See [diagram](https://app.diagrams.net/#G1PefRExlnl6POx4aTzf_Zw__PpWzA5E0Q)
 ## __OUT OF SCOPE__
 - Privacy and Security are not part of the POC
 - Latency
+- Disambiguation 
 
 
 ## __REPOSITORIES__
