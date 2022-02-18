@@ -10,6 +10,10 @@ We will cover two use cases:
 
 See [diagram](https://app.diagrams.net/#G1PefRExlnl6POx4aTzf_Zw__PpWzA5E0Q)
 
+## __SCOPE__
+- Explicit Utterance
+- Integration with Magenta and VRS
+
 ## __EXPECTED OUTCOMES__
 - Deliver VRS and Magenta integration
 - Understand the latency criteria between VRS and Magenta
