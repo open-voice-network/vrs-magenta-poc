@@ -1,7 +1,7 @@
 # vrs-magenta-poc
 
 ## __PROBLEM__
-
+ttt
 Today, there is no straightforward way to deploy a skill or voice application on multiple conversation platforms. Interoperability is pretty much non-existent.
 
 We will cover two use cases:
