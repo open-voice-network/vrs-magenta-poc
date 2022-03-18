@@ -29,4 +29,4 @@ See [diagram](https://app.diagrams.net/#G1PefRExlnl6POx4aTzf_Zw__PpWzA5E0Q)
 ## __REPOSITORIES__
 - [VRS](https://github.com/open-voice-network/vrs)
 - [VRS Milestone](https://github.com/open-voice-network/docs/milestone/50)
-- Magenta
+- Magenta 
