@@ -21,6 +21,9 @@ See [diagram](https://app.diagrams.net/#G1PefRExlnl6POx4aTzf_Zw__PpWzA5E0Q)
 - Understand the latency criteria between VRS and Magenta
 - Understand the minimum viable contract between VRS and Magenta
 
+## __ACTUAL OUTCOMES__
+- See [Phase 1 Learnings](PHASE1.md)
+
 ## __OUT OF SCOPE__
 - Privacy and Security are not part of the POC
 - Latency
